@@ -6,7 +6,7 @@
 
 ## About Me
 
-- MERN Stack Developer Intern at ATUM Information Technologies
+- WEB Developer Intern at ATUM Information Technologies
 - Building Full Stack Web Applications
 - Learning TypeScript & Next.js
 - Interested in Web Development and Software Engineering
