@@ -1,6 +1,6 @@
 # Hi, I'm Lavanya Wavhal 👋
 
-💻 MERN Stack Developer
+💻 FULL Stack Developer
 🎓 BCA Final Year Student
 📍 Pune, India
 
