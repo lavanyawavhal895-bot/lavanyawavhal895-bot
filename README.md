@@ -96,20 +96,7 @@ A secure full-stack authentication system with email OTP verification.
 
 **Tech Stack:** React • Node.js • Express • MongoDB • JWT • Brevo • Nodemailer  
 
----
-
-### 🔐 Secure Login System – OTP Authentication Platform
-
-🔗 Secure authentication system with OTP login & password reset.
-
-**Key Features:**
-- 📧 OTP verification
-- 🔐 JWT authentication
-- 🔑 Password reset flow
-- 🛡 Protected routes
-
-**Tech Stack:** Node.js • Express • MongoDB • JWT  
-
+  
 ---
 
 ### 🔥 Reddy's Tour & Travel – Booking Platform
