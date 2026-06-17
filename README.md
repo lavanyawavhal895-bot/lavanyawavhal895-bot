@@ -74,6 +74,10 @@ A full-stack Blog CMS platform for creating, managing, and publishing blogs.
 - ☁ Cloudinary image uploads
 - 🛡 Role-based access control
 - 📱 Responsive UI
+- ⚙ Password hashing (bcrypt)
+- 🔁 Forget system
+- 🛡 Protected routes
+
 
 **Tech Stack:** React • Node.js • Express • MongoDB • TypeScript • JWT • Cloudinary • Brevo • Nodemailer  
 
