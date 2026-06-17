@@ -41,6 +41,12 @@
 
 ---
 
+### Email Services
+![Brevo](https://img.shields.io/badge/Brevo-000000?style=for-the-badge&logo=maildotru&logoColor=00C3F7)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-000000?style=for-the-badge&logo=gmail&logoColor=D14836)
+
+---
+
 ### Tools
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
@@ -55,14 +61,15 @@
 ---
 
 ### 🔥 InkFlow – MERN Blog CMS Platform (Personal Project)
-A full-stack Blog CMS platform for creating, managing, and publishing blogs with complete lifecycle control.
+A full-stack Blog CMS platform for creating, managing, and publishing blogs.
 
 🔗 Live Demo: https://blog-platform-web-ten.vercel.app  
 
 **Key Features:**
 - 📝 Full blog lifecycle management (Create, Edit, Delete, Publish)
 - 🔐 JWT authentication with secure token handling
-- 📧 Email verification and password recovery system
+- 📧 Email verification & password recovery system
+- ✉ Email service integration using Brevo + Nodemailer
 - 🛡 Role-based access control (Admin & User)
 - 👤 Protected routes with Admin dashboard
 - ☁ Cloudinary integration for image uploads
@@ -70,34 +77,34 @@ A full-stack Blog CMS platform for creating, managing, and publishing blogs with
 - 📱 Fully responsive UI with Tailwind CSS
 - 🚀 Deployed frontend & backend on Render
 
-**Tech Stack:** React.js • Node.js • Express.js • MongoDB • TypeScript • Tailwind CSS • JWT • Cloudinary  
+**Tech Stack:** React.js • Node.js • Express.js • MongoDB • TypeScript • Tailwind CSS • JWT • Cloudinary • Brevo • Nodemailer  
 
 ---
 
 ### 🔥 Reddy's Tour & Travel – Full Stack Booking Platform
-A full-stack travel booking application with seamless UI and backend integration.
+A travel booking platform with dynamic packages and smooth UI.
 
 **Key Features:**
-- ✈ Browse and book travel packages
-- 🧾 Dynamic package management system
-- 👤 User-friendly booking experience
+- ✈ Travel package browsing & booking
+- 🧾 Admin-style package management
+- 👤 User-friendly experience
 - 🔐 Secure backend APIs
-- 📱 Responsive UI for all devices
+- 📱 Fully responsive design
 
 **Tech Stack:** React.js • Node.js • Express.js • MongoDB  
 
 ---
 
 ### 🔐 Secure Login System – OTP Authentication Platform
-A secure authentication system with OTP-based login and JWT security.
+A secure authentication system with OTP login and password recovery.
 
 **Key Features:**
-- 📧 OTP email verification
+- 📧 OTP email verification (Brevo / Nodemailer)
 - 🔐 JWT authentication system
-- 🔑 Password recovery flow
-- 🛡 Protected routes implementation
+- 🔑 Password reset flow
+- 🛡 Protected routes
 
-**Tech Stack:** Node.js • Express.js • MongoDB • JWT • Nodemailer  
+**Tech Stack:** Node.js • Express.js • MongoDB • JWT • Brevo • Nodemailer  
 
 ---
 
@@ -105,27 +112,12 @@ A secure authentication system with OTP-based login and JWT security.
 A responsive tourism website showcasing trekking destinations.
 
 **Key Features:**
-- 🏞 Trekking destinations listing
-- 📱 Fully responsive design
+- 🏞 Trekking listings
+- 📱 Responsive design
 - 🎨 Clean UI
-- ⚡ Fast frontend performance
+- ⚡ Fast performance
 
 **Tech Stack:** HTML • CSS • JavaScript • React.js  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lavanyawavhal895-bot&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lavanyawavhal895-bot&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-
-- 🔗 LinkedIn: https://www.linkedin.com/in/lavanya-wavhal-7aa03b33b  
-- 📧 Email: lavanyawavhal895@gmail.com  
 
 ---
 
