@@ -60,65 +60,84 @@
 
 ---
 
-### 🔥 InkFlow – MERN Blog CMS Platform (Personal Project)
+### 🔥 InkFlow – MERN Blog CMS Platform
+
 A full-stack Blog CMS platform for creating, managing, and publishing blogs.
 
-🔗 Live Demo: https://blog-platform-web-ten.vercel.app  
+🔗 Live Demo:  
+🌐 https://blog-platform-web-ten.vercel.app  
 
 **Key Features:**
-- 📝 Full blog lifecycle management (Create, Edit, Delete, Publish)
-- 🔐 JWT authentication with secure token handling
-- 📧 Email verification & password recovery system
-- ✉ Email service integration using Brevo + Nodemailer
-- 🛡 Role-based access control (Admin & User)
-- 👤 Protected routes with Admin dashboard
-- ☁ Cloudinary integration for image uploads
-- 👨‍💻 Dynamic author profiles with blog aggregation
-- 📱 Fully responsive UI with Tailwind CSS
-- 🚀 Deployed frontend & backend on Render
+- 📝 Blog lifecycle management (Create, Edit, Delete, Publish)
+- 🔐 JWT authentication
+- 📧 Email verification & password recovery
+- ☁ Cloudinary image uploads
+- 🛡 Role-based access control
+- 📱 Responsive UI
 
-**Tech Stack:** React.js • Node.js • Express.js • MongoDB • TypeScript • Tailwind CSS • JWT • Cloudinary • Brevo • Nodemailer  
+**Tech Stack:** React • Node.js • Express • MongoDB • TypeScript • JWT • Cloudinary • Brevo • Nodemailer  
 
 ---
 
-### 🔥 Reddy's Tour & Travel – Full Stack Booking Platform
-A travel booking platform with dynamic packages and smooth UI.
+### 🔐 Two-Step Authentication System (OTP Login Platform)
+
+A secure full-stack authentication system with email OTP verification.
+
+🔗 Live Demo:  
+🌐 https://two-step-authentication.vercel.app  
 
 **Key Features:**
-- ✈ Travel package browsing & booking
-- 🧾 Admin-style package management
-- 👤 User-friendly experience
-- 🔐 Secure backend APIs
-- 📱 Fully responsive design
+- 📧 Email OTP verification
+- 🔐 JWT authentication
+- 🔁 OTP resend system
+- 🛡 Protected routes
+- ⚙ Password hashing (bcrypt)
+- 📱 Responsive UI (React + Tailwind)
 
-**Tech Stack:** React.js • Node.js • Express.js • MongoDB  
+**Tech Stack:** React • Node.js • Express • MongoDB • JWT • Brevo • Nodemailer  
 
 ---
 
 ### 🔐 Secure Login System – OTP Authentication Platform
-A secure authentication system with OTP login and password recovery.
+
+🔗 Secure authentication system with OTP login & password reset.
 
 **Key Features:**
-- 📧 OTP email verification (Brevo / Nodemailer)
-- 🔐 JWT authentication system
+- 📧 OTP verification
+- 🔐 JWT authentication
 - 🔑 Password reset flow
 - 🛡 Protected routes
 
-**Tech Stack:** Node.js • Express.js • MongoDB • JWT • Brevo • Nodemailer  
+**Tech Stack:** Node.js • Express • MongoDB • JWT  
+
+---
+
+### 🔥 Reddy's Tour & Travel – Booking Platform
+
+🔗 Travel booking system with dynamic packages.
+
+**Key Features:**
+- ✈ Booking system
+- 🧾 Admin panel
+- 📱 Responsive UI
+
+**Tech Stack:** React • Node.js • Express • MongoDB  
 
 ---
 
 ### 🏔 Maharashtra Treks – Tourism Website
-A responsive tourism website showcasing trekking destinations.
+
+🔗 Tourism website for trekking destinations.
 
 **Key Features:**
-- 🏞 Trekking listings
-- 📱 Responsive design
-- 🎨 Clean UI
+- 🏞 Trek listings
+- 📱 Responsive UI
 - ⚡ Fast performance
 
-**Tech Stack:** HTML • CSS • JavaScript • React.js  
+**Tech Stack:** HTML • CSS • JavaScript • React  
 
 ---
 
-⭐ *"Code. Build. Learn. Repeat."*
+## ⭐ Quote
+
+> "Code. Build. Learn. Repeat."
